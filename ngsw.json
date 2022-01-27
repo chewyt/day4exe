@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1643267957208,
-  "index": "day4exe/index.html",
+  "timestamp": 1643268064402,
+  "index": "/day4exe/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "day4exe/favicon.ico",
-        "day4exe/index.html",
-        "day4exe/main.3e74edca1b588796.js",
-        "day4exe/manifest.webmanifest",
-        "day4exe/polyfills.5e0db7a74a189709.js",
-        "day4exe/runtime.5d4e32180e086370.js",
-        "day4exe/styles.10a3678fc5e4410f.css"
+        "/day4exe/favicon.ico",
+        "/day4exe/index.html",
+        "/day4exe/main.3e74edca1b588796.js",
+        "/day4exe/manifest.webmanifest",
+        "/day4exe/polyfills.5e0db7a74a189709.js",
+        "/day4exe/runtime.5d4e32180e086370.js",
+        "/day4exe/styles.10a3678fc5e4410f.css"
       ],
       "patterns": []
     },
@@ -29,35 +29,35 @@
         "ignoreVary": true
       },
       "urls": [
-        "day4exe/assets/icons/icon-128x128.png",
-        "day4exe/assets/icons/icon-144x144.png",
-        "day4exe/assets/icons/icon-152x152.png",
-        "day4exe/assets/icons/icon-192x192.png",
-        "day4exe/assets/icons/icon-384x384.png",
-        "day4exe/assets/icons/icon-512x512.png",
-        "day4exe/assets/icons/icon-72x72.png",
-        "day4exe/assets/icons/icon-96x96.png"
+        "/day4exe/assets/icons/icon-128x128.png",
+        "/day4exe/assets/icons/icon-144x144.png",
+        "/day4exe/assets/icons/icon-152x152.png",
+        "/day4exe/assets/icons/icon-192x192.png",
+        "/day4exe/assets/icons/icon-384x384.png",
+        "/day4exe/assets/icons/icon-512x512.png",
+        "/day4exe/assets/icons/icon-72x72.png",
+        "/day4exe/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "day4exe/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "day4exe/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "day4exe/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "day4exe/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "day4exe/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "day4exe/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "day4exe/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "day4exe/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "day4exe/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "day4exe/index.html": "e6b34297490f83a11af46c9d82dd337cd83067ac",
-    "day4exe/main.3e74edca1b588796.js": "95ad05a33ba52da944b0d4d874abc466b553db8c",
-    "day4exe/manifest.webmanifest": "3561f9f4b11777788031ebed631346b03be90179",
-    "day4exe/polyfills.5e0db7a74a189709.js": "121dc080320c6f33fb7efaec0b24f76f94fb1b5c",
-    "day4exe/runtime.5d4e32180e086370.js": "43824c061a90e6c80728099076c4b664b3a45019",
-    "day4exe/styles.10a3678fc5e4410f.css": "04ef123665db54ae19aa9038b8f884035e977c87"
+    "/day4exe/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/day4exe/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/day4exe/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/day4exe/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/day4exe/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/day4exe/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/day4exe/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/day4exe/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/day4exe/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/day4exe/index.html": "b590b0348e134a0b99c9d0ce64a7bbafdfb02f62",
+    "/day4exe/main.3e74edca1b588796.js": "95ad05a33ba52da944b0d4d874abc466b553db8c",
+    "/day4exe/manifest.webmanifest": "3561f9f4b11777788031ebed631346b03be90179",
+    "/day4exe/polyfills.5e0db7a74a189709.js": "121dc080320c6f33fb7efaec0b24f76f94fb1b5c",
+    "/day4exe/runtime.5d4e32180e086370.js": "43824c061a90e6c80728099076c4b664b3a45019",
+    "/day4exe/styles.10a3678fc5e4410f.css": "04ef123665db54ae19aa9038b8f884035e977c87"
   },
   "navigationUrls": [
     {
